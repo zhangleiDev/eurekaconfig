@@ -8,4 +8,4 @@ test:
   auto:
     update: haha
 env:
-  test
+  test2
