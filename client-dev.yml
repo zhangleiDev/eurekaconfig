@@ -6,4 +6,4 @@ server:
 
 test:
   auto:
-    update: haha
+    update: haha-dev
