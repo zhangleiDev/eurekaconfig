@@ -7,3 +7,5 @@ server:
 test:
   auto:
     update: haha
+env：
+  test
