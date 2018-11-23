@@ -1,5 +1,5 @@
 test:
   auto:
-    update: haha-dev
+    update: haha-test
 
   
